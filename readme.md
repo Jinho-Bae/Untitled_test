@@ -24,19 +24,5 @@ II. 대상 사용자(Users)
    
 III. 피드백(Feedback)
 =====================
-
-
-  
-  
-  
-1. hello  
-[Slack]("https://elice-ssafy-seoul-7.slack.com/messages/DEVG2BZHT/convo/DEVG2BZHT-1545368003.000200/")
-
-![image](https://user-images.githubusercontent.com/46038554/50328205-9bfd8700-0535-11e9-87ff-0ddfd975672c.png)
-
-|123|123|123|123|!23|
-|---|---|---|---|---|
-|123|123|123|123|123|
-
-*바보*  
-__바보__
+ - 독서 목록에 원하는 책을 추가하는 기능을 추가하고 싶었으나, 구현하지 못하였다.
+ - 챗봇과 대화형으로 구현하고 싶다. (ex. 책 검색 후 > "이 책을 추가하시겠습니까?")
