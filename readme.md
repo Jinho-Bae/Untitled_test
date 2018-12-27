@@ -8,7 +8,9 @@
     - 
 
 - 목차
-1. 안녕
+I. 스펙(Specification)  
+ (1) 책 검색 기능
+    - '책 이름' + "검색"
 1. hello  
 [Slack]("https://elice-ssafy-seoul-7.slack.com/messages/DEVG2BZHT/convo/DEVG2BZHT-1545368003.000200/")
 
